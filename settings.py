@@ -157,5 +157,3 @@ SESSION_SAVE_EVERY_REQUEST = True
 SESSION_ENGINE = 'django.contrib.sessions.backends.db'
 CSRF_COOKIE_HTTPONLY = True
 
-
-#admin #hello2406
