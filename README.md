@@ -49,14 +49,3 @@ X_FRAME_OPTIONS = 'Deny'
 
 **Prevent Cross-Site-Scripting (XSS)**
 SECURE_BROWSER_XSS_FILTER = TRUE
-
-🔹 Screenshots & Demo
-📷 Dashboard View:
-![instructor dashboard](https://github.com/user-attachments/assets/60d92548-9ba4-4b17-bfb7-2976e4049f30)
-![studentdashboard](https://github.com/user-attachments/assets/4f4e5f71-cafa-4a43-9139-a820ea3611b7)
-
-📷 Login Page:
-![login](https://github.com/user-attachments/assets/fe06a679-c600-4c02-b5a4-3fb30c53837c)
-
-
-
